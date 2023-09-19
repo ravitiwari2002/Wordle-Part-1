@@ -24,7 +24,7 @@ The following **additional** features are implemented:
 - [N/A] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x04-D0KRB5Q" frameborder="0" allowfullscreen></iframe>
+[![Video](https://img.youtube.com/vi/x04-D0KRB5Q/0.jpg)](https://www.youtube.com/watch?v=x04-D0KRB5Q)
 
 
 ## Notes
