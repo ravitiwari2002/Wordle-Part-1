@@ -9,9 +9,7 @@ The following functionalities are implemented:
 - User can play a basic version of Wordle, with different goal words each time
 
 
-
-https://github.com/ravitiwari2002/codePath-Project1/assets/81186121/a8808ee3-b2ba-4d27-91b3-ffb8fde995d0
-
+https://github.com/ravitiwari2002/Wordle-Part-1/assets/81186121/21c6b784-cc29-4629-8462-e1ca944dd6f8
 
 
 ## License
